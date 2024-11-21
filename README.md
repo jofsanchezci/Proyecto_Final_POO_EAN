@@ -45,7 +45,7 @@ El proyecto está dividido en las siguientes clases:
 4. **Interfaz gráfica**:
    - `InterfazRestaurante`: Ventana principal para interactuar con el sistema.
 
-![Estructura del Proyecto](Imagen_2.png "Estructura del Proyecto")
+![Estructura del Proyecto](Image_2.png "Estructura del Proyecto")
 ---
 
 ## Requisitos del sistema
